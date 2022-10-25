@@ -1,6 +1,6 @@
-# npm release attestation v0.1
+# npm publish attestation (v0.1)
 
-The npm release attestation conforms to the [in-toto attestation spec (v0.1.0)]([url](https://github.com/in-toto/attestation/tree/v0.1.0/spec)).
+The npm publish attestation conforms to the [in-toto attestation spec (v0.1.0)]([url](https://github.com/in-toto/attestation/tree/v0.1.0/spec)).
 
 ### Statement
 
@@ -11,7 +11,7 @@ The npm release attestation conforms to the [in-toto attestation spec (v0.1.0)](
     "name": "pkg:npm/@scope/package-foo@1.4.3",
     "digest": { "sha512": "41o0P/CEffYGDqvo2pHQXRBOfFOxvYY3WkwkQTy..." }
   }],
-  "predicateType": "https://github.com/npm/attestation/tree/main/specs/release/v0.1",
+  "predicateType": "https://github.com/npm/attestation/tree/main/specs/publish/v0.1",
   "predicate": {
     "name": "@scope/package-foo",
     "version": "1.4.3",
