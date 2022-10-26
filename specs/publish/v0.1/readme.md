@@ -1,6 +1,6 @@
 # npm publish attestation (v0.1)
 
-The npm publish attestation conforms to the [in-toto attestation spec (v0.1.0)]([url](https://github.com/in-toto/attestation/tree/v0.1.0/spec)).
+The npm publish attestation conforms to the [in-toto attestation spec (v0.1.0)](https://github.com/in-toto/attestation/tree/v0.1.0/spec).
 
 ### Statement
 
